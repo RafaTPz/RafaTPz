@@ -2,7 +2,8 @@
 
 ## About Me
 - 👀 I’m interested in improving my performance in full-stack development (React, Node, TypeScript, MySQL, and more), and I plan to learn Python and C# in the future.
-- 🌱 I’m currently learning React, Node, TypeScript, Styled Components, Tailwind, MySQL, PHP, and Laravel.
+- 🌱 I’m currently enhancing my skills in React and Node while learning C.  
+- 💻 I currently have knowledge in React, Node, TypeScript, Styled Components, Tailwind, MySQL, PHP, and Laravel.  
 - 💞️ I’m looking to collaborate on full-stack development projects and, in the future, in Unity game development.
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I've created a few games as a kid, but lost the media... But I have 2 games available at [GameRealmCompany](https://gamerealmcompany.itch.io/).
