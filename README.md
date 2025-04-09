@@ -24,7 +24,7 @@
 
 ## 📫 How to Reach Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/orafatp)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-tp](https://www.linkedin.com/in/rafael-tadeu-pra%C3%A7a-1aa032267/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-tadeu-pra%C3%A7a-1aa032267/)
 <!---
 RafaTPz/RafaTPz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
