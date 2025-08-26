@@ -21,9 +21,14 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 
 ## 📊 GitHub Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&border_radius=5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaTPz&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTPz&layout=compact&theme=tokyonight" alt="langs" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RafaTPz&theme=tokyonight&border_radius=5" alt="streak"/>
+</p>
 
 ## 📫 How to Reach Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/orafatp)
