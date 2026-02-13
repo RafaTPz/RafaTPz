@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @RafaTPz
 
 ## About Me
-- 👀 I’m interested in improving my performance in full-stack development (React, Node, TypeScript, MySQL, and more), and I plan to learn Python and C# in the future.
-- 🌱 I’m currently enhancing my skills in React and Node while learning Java.  
-- 💻 I currently have knowledge in React, Node, TypeScript, Styled Components, Tailwind, MySQL, PHP, Laravel and C.  
-- 💞️ I’m looking to collaborate on full-stack development projects and, in the future, in Unity game development.
+- 👀 I’m interested in improving my performance in full-stack development (Java, React, Node, TypeScript, MySQL, and more), and I plan to learn Python and C# in the future.
+- 🌱 I’m currently enhancing my skills in React, Node, Java(Spring Boot) and C.  
+- 💻 I currently have knowledge in React, Node, Java, TypeScript, Styled Components, Tailwind, MySQL, PHP, Laravel and C.  
+- 💞️ I’m looking to collaborate on full-stack(JS or Java) development projects and, in the future, in Unity game development.
 - ⚡ Fun fact: I've created a few games as a kid, but lost the media... But I have 2 games available at [GameRealmCompany](https://gamerealmcompany.itch.io/).
 
 ## Languages and Tools
