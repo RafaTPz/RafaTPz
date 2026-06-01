@@ -1,39 +1,54 @@
 # 👋 Hi, I’m @RafaTPz
 
-## About Me
-- 👀 I’m interested in improving my performance in full-stack development (Java, React, Node, TypeScript, MySQL, and more), and I plan to learn Python and C# in the future.
-- 🌱 I’m currently enhancing my skills in React, Node, Java(Spring Boot) and C.  
-- 💻 I currently have knowledge in React, Node, Java, TypeScript, Styled Components, Tailwind, MySQL, PHP, Laravel and C.  
-- 💞️ I’m looking to collaborate on full-stack(JS or Java) development projects and, in the future, in Unity game development.
-- ⚡ Fun fact: I've created a few games as a kid, but lost the media... But I have 2 games available at [GameRealmCompany](https://gamerealmcompany.itch.io/).
+## 🚀 About Me
 
-## Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+- 👀 **What I'm up to:** I’m highly interested in improving my performance in full-stack development (Java, Python, React, Node, TypeScript, MySQL, and more), and I plan to master C# and Unity in the future.
+- 🌱 **Currently learning:** Enhancing my skills in **React, Node, Java (Spring Boot), Python and C**.  
+- 💻 **Tech Stack:** I have practical knowledge in *React, Node, Java, Python, TypeScript, Styled Components, Tailwind, MySQL, PHP, Laravel, and C*.  
+- ⚡ **Fun fact:** I've created a few games as a kid, but lost the media... But I have 2 games available right now at [GameRealmCompany](https://gamerealmcompany.itch.io/).
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaTPz&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTPz&layout=compact&theme=tokyonight" alt="langs" height="150"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RafaTPz&theme=tokyonight&border_radius=5" alt="streak"/>
-</p>
+## 🤝 Let's Connect & Collaborate!
+
+* 🌐 **Active Communities:** I am actively looking to join **active development communities** to exchange knowledge, network, and grow together.
+* 💻 **Web & Game Projects:** I am fully available to participate in projects, whether they are **website development (Full-Stack)** or **game creation** (especially moving towards Unity in the future).
+* 💬 **Always Open to Chat:** I am **available to talk at any time**! If you want to discuss code, games, or open-source collaborations, feel free to ping me.
+
+> 👉 **Want to build something together or invite me to a community?** Check out the [How to Reach Me](#-how-to-reach-me) section below and send me a message!
+
+---
+
+## 🛠️ Languages and Tools
+
+### 🌐 Frontend & Design
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+
+---
 
 ## 📫 How to Reach Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/orafatp)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-tadeu-pra%C3%A7a-1aa032267/)
-<!---
-RafaTPz/RafaTPz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm always online, so don't hesitate to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-tadeu-pra%C3%A7a-1aa032267/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/orafatp)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTPz&theme=tokyonight&border_radius=5" alt="RafaTPz Streak" />
+</p>
