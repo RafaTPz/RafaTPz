@@ -46,9 +46,3 @@ I'm always online, so don't hesitate to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-tadeu-pra%C3%A7a-1aa032267/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/orafatp)
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTPz&theme=tokyonight&border_radius=5" alt="RafaTPz Streak" />
-</p>
