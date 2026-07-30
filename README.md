@@ -14,7 +14,6 @@
 
 - 👀 **What I'm up to:** Building modern full-stack apps with **React, Node.js and TypeScript** — from **REST APIs** with NestJS/Express to responsive UIs with Tailwind.
 - 🌱 **Currently learning:** Studying **Docker + Azure**, and going deeper into **Java (Spring Boot)** and **Python**.
-- 🤟 **Featured project:** [Libras-Connect](https://github.com/RafaTPz/Libras-Connect) — a real-time chat platform (Socket.IO) that helps people learn Brazilian Sign Language by connecting learners with fluent users and the deaf community.
 - ⚡ **Fun fact:** I made a few games as a kid but lost the files... two of them live on at [GameRealmCompany](https://gamerealmcompany.itch.io/) 🎮
 
 ---
